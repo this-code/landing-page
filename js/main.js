@@ -1,0 +1,1 @@
+function calck(){const e=Number(document.getElementById("input-c").value),t=700*e;let c="Стоимость ";document.getElementById("check1").checked?alert(c+Number(250*e+t)+" Р"):alert(c+Number(t)+" Р")}
